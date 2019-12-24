@@ -1,0 +1,9 @@
+{
+    "plugins": ["expandable-chapters","editlink"],
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
+			"label": "编辑本页"
+        }
+    }
+}
